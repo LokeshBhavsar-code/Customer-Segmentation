@@ -50,9 +50,6 @@ Businesses often struggle with **generalized marketing**. We used unsupervised l
 - **Auto-generated plots** for silhouette analysis, elbow curve, and cluster visualization
 - Reduced analyst effort by **20%**
 
----
-
-## 📁 Project Structure
 
 
 
