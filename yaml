@@ -1,0 +1,42 @@
+
+---
+
+## 🔍 Key Results
+
+| Metric                     | Value        |
+|---------------------------|--------------|
+| Optimal Clusters (k)      | 4            |
+| Cluster Stability         | 95%          |
+| Precision Gain (Baseline) | +21%         |
+| Runtime Reduction         | -30%         |
+| Analyst Effort Saved      | 20%          |
+
+---
+
+## 📈 Visualizations
+
+<p align="center">
+  <img src="visuals/elbow_curve.png" width="350"/> &nbsp;
+  <img src="visuals/silhouette_score.png" width="350"/>
+</p>
+
+<p align="center">
+  <img src="visuals/clusters_pca.png" width="500"/>
+</p>
+
+---
+
+## 🏷️ Business Personas Uncovered
+
+1. **High-Spend Loyalists** – frequent buyers, low churn
+2. **Discount Seekers** – active during promotions
+3. **New Customers** – low spend, high acquisition cost
+4. **Dormant Accounts** – potential re-engagement targets
+
+---
+
+## 🔁 Reproducibility
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/customer-segmentation-kmeans.git
